@@ -8,9 +8,7 @@
 
 <h3 align="center">💻 C++ Developer | Python Enthusiast | Future Software Engineer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;C%2B%2B+Developer+%7C+Python+Programmer;Problem+Solver+and+Tech+Learner;Building+Projects+and+Learning+Every+Day;Future+Software+Engineer+🚀" />
-</p>
+
 
 ---
 
