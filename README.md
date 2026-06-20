@@ -116,9 +116,9 @@ Version Control
 
 🐙 GitHub: https://github.com/Himanshu11-03
 
-💼 LinkedIn: Add Your LinkedIn Link
+💼 LinkedIn:www.linkedin.com/in/himanshu-sharma-991a17354
 
-📧 Email: Add Your Email
+📧 Email:officialhimanshusharma93264@gmail.com
 
 ---
 
